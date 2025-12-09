@@ -21,3 +21,9 @@ Tech Stack:
 	•	Images: Coil ( AsyncImage )
 	•	Coroutines: Kotlin Coroutines + StateFlow
   •	Testing: JUnit4, MockK, Coroutines Test
+
+  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c30aa00a-438f-4ca6-8891-6356e6af5808" />
+
+
+  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/eac7fcc4-c0e7-4cc5-a3f5-a0ad63e860f5" />
+
